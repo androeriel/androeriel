@@ -1,0 +1,18 @@
+SMAP
+Template_jsp.java
+JSP
+*S JSP
+*F
++ 0 Template.jsp
+Template.jsp
++ 1 header.jsp
+header.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+5,4:50
+5#1,70:53
+8#0,19:123
+5#2,7:142
+26#0,2:149
+*E
